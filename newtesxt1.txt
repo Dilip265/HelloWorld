@@ -1,0 +1,12 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 2C93-C876
+
+ Directory of C:\Users\kumar\Desktop\javaproject1
+
+30-06-2021  11:18    <DIR>          .
+30-06-2021  11:18    <DIR>          ..
+30-06-2021  10:45               673 Hello1.class
+30-06-2021  10:44               145 Hello1.java
+30-06-2021  11:18                 0 newtesxt1.txt
+               3 File(s)            818 bytes
+               2 Dir(s)  86,471,876,608 bytes free
